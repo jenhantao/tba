@@ -1,0 +1,1279 @@
+Name	Gene	Family	Source
+RUNX1	RUNX1	Runt-related_factors	JASPAR
+TFAP2A	TFAP2A	AP-2	JASPAR
+Arnt	Arnt	PAS_domain_factors	JASPAR
+Ahr::Arnt	Arnt	PAS_domain_factors	JASPAR
+Ar	Ar	Steroid_hormone_receptors_(NR3)	JASPAR
+T	T	Brachyury-related_factors	JASPAR
+PAX5	PAX5	Paired_domain_only	JASPAR
+NR2F1	NR2F1	RXR-related_receptors_(NR2)	JASPAR
+CREB1	CREB1	CREB-related_factors	JASPAR
+Ddit3::Cebpa	Cebpa	C/EBP-related	JASPAR
+E2F1	E2F1	E2F-related_factors	JASPAR
+NFIL3	NFIL3	C/EBP-related	JASPAR
+EN1	EN1	NK-related_factors	JASPAR
+ELK1	ELK1	Ets-related_factors	JASPAR
+Mecom	Mecom	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+FOXF2	FOXF2	Forkhead_box_(FOX)_factors	JASPAR
+FOXD1	FOXD1	Forkhead_box_(FOX)_factors	JASPAR
+FOXC1	FOXC1	Forkhead_box_(FOX)_factors	JASPAR
+FOXL1	FOXL1	Forkhead_box_(FOX)_factors	JASPAR
+Gata1	Gata1	GATA-type_zinc_fingers	JASPAR
+GATA2	GATA2	GATA-type_zinc_fingers	JASPAR
+GATA3	GATA3	GATA-type_zinc_fingers	JASPAR
+Gfi1	Gfi1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+Klf4	Klf4	Three-zinc_finger_Kruppel-related_factors	JASPAR
+Foxq1	Foxq1	Forkhead_box_(FOX)_factors	JASPAR
+Foxd3	Foxd3	Forkhead_box_(FOX)_factors	JASPAR
+FOXI1	FOXI1	Forkhead_box_(FOX)_factors	JASPAR
+HLF	HLF	C/EBP-related	JASPAR
+HNF1A	HNF1A	POU_domain_factors	JASPAR
+Foxa2	Foxa2	Forkhead_box_(FOX)_factors	JASPAR
+NHLH1	NHLH1	Tal-related_factors	JASPAR
+IRF1	IRF1	Interferon-regulatory_factors	JASPAR
+IRF2	IRF2	Interferon-regulatory_factors	JASPAR
+MEF2A	MEF2A	Regulators_of_differentiation	JASPAR
+MZF1	MZF1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+MZF1_var2	MZF1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+MAX	MAX	bHLH-ZIP_factors	JASPAR
+MAX::MYC	MYC	bHLH-ZIP_factors	JASPAR
+NFYA	NFYA	Heteromeric_CCAAT-binding_factors	JASPAR
+Gabpa	Gabpa	Ets-related_factors	JASPAR
+Nkx2-5	Nkx2-5	Homeo	JASPAR
+Pparg::Rxra	Rxra	RXR-related_receptors_(NR2)	JASPAR
+PPARG	PPARG	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+Pax2	Pax2	Paired_domain_only	JASPAR
+PAX4	PAX4	Paired_plus_homeo_domain	JASPAR
+Pax6	Pax6	Homeo	JASPAR
+PBX1	PBX1	TALE-type_homeo_domain_factors	JASPAR
+RORA	RORA	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+RORA_var2	RORA	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+RREB1	RREB1	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+RXRA::VDR	VDR	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+Prrx2	Prrx2	Paired-related_HD_factors	JASPAR
+ELK4	ELK4	Ets-related_factors	JASPAR
+SOX9	SOX9	SOX-related_factors	JASPAR
+Sox17	Sox17	SOX-related_factors	JASPAR
+SP1	SP1	Three-zinc_finger_Kruppel-related_factors	JASPAR
+SPI1	SPI1	Ets-related_factors	JASPAR
+SPIB	SPIB	Ets-related_factors	JASPAR
+SRF	SRF	Responders_to_external_signals_(SRF/RLM1)	JASPAR
+SRY	SRY	SOX-related_factors	JASPAR
+Sox5	Sox5	SOX-related_factors	JASPAR
+ZNF143	ZNF143	More_than_3_adjacent_zinc_finger_factors	JASPAR
+MAFG::NFE2L1	NFE2L1	Jun-related_factors	JASPAR
+TEAD1	TEAD1	TEF-1-related_factors	JASPAR
+TAL1::TCF3	TCF3	E2A-related_factors	JASPAR
+Hand1::Tcf3	Tcf3	E2A-related_factors	JASPAR
+USF1	USF1	bHLH-ZIP_factors	JASPAR
+YY1	YY1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ETS1	ETS1	Ets-related_factors	JASPAR
+FOS::JUN	JUN	Jun-related_factors	JASPAR
+Myb	Myb	Myb/SANT_domain_factors	JASPAR
+REL	REL	Rel	JASPAR
+CEBPA	CEBPA	C/EBP-related	JASPAR
+ZEB1	ZEB1	HD-ZF_factors	JASPAR
+Mycn	Mycn	bHLH-ZIP_factors	JASPAR
+NFKB1	NFKB1	NF-kappaB-related_factors	JASPAR
+TP53	TP53	p53-related_factors	JASPAR
+RELA	RELA	NF-kappaB-related_factors	JASPAR
+TBP	TBP	TBP-related_factors	JASPAR
+HLTF	HLTF	Myb/SANT_domain_factors	JASPAR
+Spz1	Spz1	unknown	JASPAR
+ESR1	ESR1	Steroid_hormone_receptors_(NR3)	JASPAR
+NR3C1	NR3C1	Steroid_hormone_receptors_(NR3)	JASPAR
+Hnf4a	Hnf4a	RXR-related_receptors_(NR2)	JASPAR
+NR1H2::RXRA	RXRA	RXR-related_receptors_(NR2)	JASPAR
+Znf423	Znf423	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+Mafb	Mafb	Maf-related_factors	JASPAR
+NFIC::TLX1	TLX1	NK-related_factors	JASPAR
+NKX3-2	NKX3-2	NK-related_factors	JASPAR
+Nkx3-1	Nkx3-1	NK-related_factors	JASPAR
+ZNF354C	ZNF354C	More_than_3_adjacent_zinc_finger_factors	JASPAR
+HINFP	HINFP	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+PDX1	PDX1	HOX-related_factors	JASPAR
+Lhx3	Lhx3	Homeo	JASPAR
+ELF5	ELF5	Ets-related_factors	JASPAR
+STAT1	STAT1	STAT_factors	JASPAR
+REST	REST	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+CTCF	CTCF	More_than_3_adjacent_zinc_finger_factors	JASPAR
+GATA1::TAL1	TAL1	Tal-related_factors	JASPAR
+ESRRB	ESRRB	Steroid_hormone_receptors_(NR3)	JASPAR
+Pou5f1::Sox2	Sox2	SOX-related_factors	JASPAR
+Sox2	Sox2	SOX-related_factors	JASPAR
+STAT3	STAT3	STAT_factors	JASPAR
+TFCP2	TFCP2	CP2-related_factors	JASPAR
+Zfx	Zfx	More_than_3_adjacent_zinc_finger_factors	JASPAR
+Myc	Myc	bHLH-ZIP_factors	JASPAR
+FOXA1	FOXA1	Forkhead_box_(FOX)_factors	JASPAR
+EWSR1-FLI1	EWSR1/FLI1	Ets-related_factors	JASPAR
+Nfe2l2	Nfe2l2	Jun-related_factors	JASPAR
+Arid3a	Arid3a	ARID-related_factors	JASPAR
+NFATC2	NFATC2	NFAT-related_factors	JASPAR
+HNF1B	HNF1B	POU_domain_factors	JASPAR
+EBF1	EBF1	Early_B-Cell_Factor-related_factors	JASPAR
+INSM1	INSM1	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+FEV	FEV	Ets-related_factors	JASPAR
+FOXO3	FOXO3	Forkhead_box_(FOX)_factors	JASPAR
+HOXA5	HOXA5	HOX-related_factors	JASPAR
+RARA::RXRA	RXRA	RXR-related_receptors_(NR2)	JASPAR
+NR4A2	NR4A2	NGFI-B-related_receptors_(NR4)	JASPAR
+NFIC	NFIC	Nuclear_factor_1	JASPAR
+EGR1	EGR1	Three-zinc_finger_Kruppel-related_factors	JASPAR
+PLAG1	PLAG1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+Nr2e3	Nr2e3	RXR-related_receptors_(NR2)	JASPAR
+ESR2	ESR2	Steroid_hormone_receptors_(NR3)	JASPAR
+ARNT::HIF1A	HIF1A	PAS_domain_factors	JASPAR
+SOX10	SOX10	SOX-related_factors	JASPAR
+Atoh1	Atoh1	Tal-related_factors	JASPAR
+BATF::JUN	JUN	Jun-related_factors	JASPAR
+Bcl6	Bcl6	More_than_3_adjacent_zinc_finger_factors	JASPAR
+BHLHE40	BHLHE40	Hairy-related_factors	JASPAR
+CDX2	CDX2	HOX-related_factors	JASPAR
+CEBPB	CEBPB	C/EBP-related	JASPAR
+Crx	Crx	Paired-related_HD_factors	JASPAR
+DUX4	DUX4	Paired-related_HD_factors	JASPAR
+E2F3	E2F3	E2F-related_factors	JASPAR
+E2F4	E2F4	E2F-related_factors	JASPAR
+E2F6	E2F6	E2F-related_factors	JASPAR
+EGR2	EGR2	Three-zinc_finger_Kruppel-related_factors	JASPAR
+ELF1	ELF1	Ets-related_factors	JASPAR
+ERG	ERG	Ets-related_factors	JASPAR
+FLI1	FLI1	Ets-related_factors	JASPAR
+FOS	FOS	Fos-related_factors	JASPAR
+FOSL1	FOSL1	Fos-related_factors	JASPAR
+FOSL2	FOSL2	Fos-related_factors	JASPAR
+FOXH1	FOXH1	Forkhead_box_(FOX)_factors	JASPAR
+Foxo1	Foxo1	Forkhead_box_(FOX)_factors	JASPAR
+FOXP1	FOXP1	Forkhead_box_(FOX)_factors	JASPAR
+Gata4	Gata4	GATA-type_zinc_fingers	JASPAR
+Gfi1b	Gfi1b	More_than_3_adjacent_zinc_finger_factors	JASPAR
+HNF4G	HNF4G	RXR-related_receptors_(NR2)	JASPAR
+Hoxc9	Hoxc9	HOX-related_factors	JASPAR
+HSF1	HSF1	HSF_factors	JASPAR
+JUN	JUN	Jun-related_factors	JASPAR
+JUN_var2	JUN	Jun-related_factors	JASPAR
+JUNB	JUNB	Jun-related_factors	JASPAR
+JUND	JUND	Jun-related_factors	JASPAR
+JUND_var2	JUND	Jun-related_factors	JASPAR
+Klf1	Klf1	Three-zinc_finger_Kruppel-related_factors	JASPAR
+Nr1h3::Rxra	Rxra	RXR-related_receptors_(NR2)	JASPAR
+MAFF	MAFF	Maf-related_factors	JASPAR
+MAFK	MAFK	Maf-related_factors	JASPAR
+MEF2C	MEF2C	Regulators_of_differentiation	JASPAR
+MEIS1	MEIS1	TALE-type_homeo_domain_factors	JASPAR
+Myod1	Myod1	MyoD_/_ASC-related_factors	JASPAR
+Myog	Myog	MyoD_/_ASC-related_factors	JASPAR
+MAF::NFE2	NFE2	Jun-related_factors	JASPAR
+NFYB	NFYB	Heteromeric_CCAAT-binding_factors	JASPAR
+Nkx2-5_var2	Nkx2-5	NK-related_factors	JASPAR
+NR2C2	NR2C2	RXR-related_receptors_(NR2)	JASPAR
+Nr5a2	Nr5a2	FTZ-F1-related_receptors_(NR5)	JASPAR
+NRF1	NRF1	Jun-related_factors	JASPAR
+POU2F2	POU2F2	POU_domain_factors	JASPAR
+PRDM1	PRDM1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+Rfx1	Rfx1	RFX-related_factors	JASPAR
+RFX5	RFX5	RFX-related_factors	JASPAR
+RUNX2	RUNX2	Runt-related_factors	JASPAR
+Rxra	Rxra	RXR-related_receptors_(NR2)	JASPAR
+SMAD2::SMAD3::SMAD4	SMAD4	SMAD_factors	JASPAR
+Sox3	Sox3	SOX-related_factors	JASPAR
+Sox6	Sox6	SOX-related_factors	JASPAR
+SP2	SP2	Three-zinc_finger_Kruppel-related_factors	JASPAR
+STAT1::STAT2	STAT2	STAT_factors	JASPAR
+Stat4	Stat4	STAT_factors	JASPAR
+Stat5a::Stat5b	Stat5b	STAT_factors	JASPAR
+Stat6	Stat6	STAT_factors	JASPAR
+Tcf12	Tcf12	E2A-related_factors	JASPAR
+TCF3	TCF3	E2A-related_factors	JASPAR
+TCF7L2	TCF7L2	TCF-7-related_factors	JASPAR
+TFAP2C	TFAP2C	AP-2	JASPAR
+TP63	TP63	p53-related_factors	JASPAR
+USF2	USF2	bHLH-ZIP_factors	JASPAR
+ZBTB33	ZBTB33	Other_factors_with_up_to_three_adjacent_zinc_fingers	JASPAR
+ZNF263	ZNF263	More_than_3_adjacent_zinc_finger_factors	JASPAR
+Bach1::Mafk	Mafk	Maf-related_factors	JASPAR
+Esrra	Esrra	Steroid_hormone_receptors_(NR3)	JASPAR
+FOXP2	FOXP2	Forkhead_box_(FOX)_factors	JASPAR
+Hoxa9	Hoxa9	HOX-related_factors	JASPAR
+SREBF1	SREBF1	bHLH-ZIP_factors	JASPAR
+SREBF2	SREBF2	bHLH-ZIP_factors	JASPAR
+THAP1	THAP1	THAP-related_factors	JASPAR
+EHF	EHF	Ets-related_factors	JASPAR
+KLF5	KLF5	Three-zinc_finger_Kruppel-related_factors	JASPAR
+RFX2	RFX2	RFX-related_factors	JASPAR
+Arid3b	Arid3b	ARID-related_factors	JASPAR
+Arid5a	Arid5a	ARID-related_factors	JASPAR
+Arntl	Arntl	PAS_domain_factors	JASPAR
+Atf1	Atf1	CREB-related_factors	JASPAR
+Atf3	Atf3	Fos-related_factors	JASPAR
+NFAT5	NFAT5	NFAT-related_factors	JASPAR
+Bhlha15	Bhlha15	Tal-related_factors	JASPAR
+Creb3l2	Creb3l2	CREB-related_factors	JASPAR
+Crem	Crem	CREB-related_factors	JASPAR
+DMRT3	DMRT3	DMRT	JASPAR
+Dux	Dux	Paired-related_HD_factors	JASPAR
+EMX1	EMX1	NK-related_factors	JASPAR
+FOXG1	FOXG1	Forkhead_box_(FOX)_factors	JASPAR
+Foxj2	Foxj2	Forkhead_box_(FOX)_factors	JASPAR
+Gmeb1	Gmeb1	GMEB	JASPAR
+Hes2	Hes2	Hairy-related_factors	JASPAR
+Id2	Id2	HLH_domain_only	JASPAR
+LBX1	LBX1	NK-related_factors	JASPAR
+LIN54	LIN54	unknown	JASPAR
+Mitf	Mitf	bHLH-ZIP_factors	JASPAR
+mix-a	mix-a	Paired-related_HD_factors	JASPAR
+Mlxip	Mlxip	bHLH-ZIP_factors	JASPAR
+Neurog1	Neurog1	Tal-related_factors	JASPAR
+NFATC1	NFATC1	NFAT-related_factors	JASPAR
+NFATC3	NFATC3	NFAT-related_factors	JASPAR
+Npas2	Npas2	PAS_domain_factors	JASPAR
+Pou2f3	Pou2f3	POU_domain_factors	JASPAR
+POU6F1	POU6F1	POU_domain_factors	JASPAR
+Rhox11	Rhox11	Paired-related_HD_factors	JASPAR
+SHOX	SHOX	Paired-related_HD_factors	JASPAR
+Six3	Six3	HD-SINE_factors	JASPAR
+Tcfl5	Tcfl5	PAS_domain_factors	JASPAR
+Twist2	Twist2	Tal-related_factors	JASPAR
+ALX3	ALX3	Paired-related_HD_factors	JASPAR
+BARHL2	BARHL2	NK-related_factors	JASPAR
+BHLHE41	BHLHE41	Hairy-related_factors	JASPAR
+CENPB	CENPB	unknown	JASPAR
+CREB3	CREB3	CREB-related_factors	JASPAR
+DBP	DBP	C/EBP-related	JASPAR
+ELF3	ELF3	Ets-related_factors	JASPAR
+ELF4	ELF4	Ets-related_factors	JASPAR
+EN2	EN2	NK-related_factors	JASPAR
+Esrrg	Esrrg	Steroid_hormone_receptors_(NR3)	JASPAR
+ESX1	ESX1	Paired-related_HD_factors	JASPAR
+ETV6	ETV6	Ets-related_factors	JASPAR
+GCM1	GCM1	GCM_factors	JASPAR
+GRHL1	GRHL1	Grainyhead-related_factors	JASPAR
+GSC	GSC	Paired-related_HD_factors	JASPAR
+HEY2	HEY2	Hairy-related_factors	JASPAR
+HOXA13	HOXA13	HOX-related_factors	JASPAR
+HOXC11	HOXC11	HOX-related_factors	JASPAR
+IRF8	IRF8	Interferon-regulatory_factors	JASPAR
+IRF9	IRF9	Interferon-regulatory_factors	JASPAR
+ISX	ISX	Paired-related_HD_factors	JASPAR
+JDP2	JDP2	Fos-related_factors	JASPAR
+JDP2~var2	JDP2	Fos-related_factors	JASPAR
+KLF13	KLF13	Three-zinc_finger_Kruppel-related_factors	JASPAR
+LHX6	LHX6	HD-LIM_factors	JASPAR
+MAFG	MAFG	Maf-related_factors	JASPAR
+MEF2B	MEF2B	Regulators_of_differentiation	JASPAR
+MEOX1	MEOX1	HOX-related_factors	JASPAR
+MIXL1	MIXL1	Paired-related_HD_factors	JASPAR
+MLX	MLX	bHLH-ZIP_factors	JASPAR
+MLXIPL	MLXIPL	bHLH-ZIP_factors	JASPAR
+MSC	MSC	Tal-related_factors	JASPAR
+MSX1	MSX1	NK-related_factors	JASPAR
+MYF6	MYF6	MyoD_/_ASC-related_factors	JASPAR
+NEUROD2	NEUROD2	Tal-related_factors	JASPAR
+NEUROG2	NEUROG2	Tal-related_factors	JASPAR
+NFIA	NFIA	Nuclear_factor_1	JASPAR
+NFIX	NFIX	Nuclear_factor_1	JASPAR
+NKX2-3	NKX2-3	NK-related_factors	JASPAR
+NKX2-8	NKX2-8	NK-related_factors	JASPAR
+NKX6-1	NKX6-1	NK-related_factors	JASPAR
+NKX6-2	NKX6-2	NK-related_factors	JASPAR
+Nr2e1	NR2E1	RXR-related_receptors_(NR2)	JASPAR
+Nr2f6	Nr2f6	RXR-related_receptors_(NR2)	JASPAR
+OLIG2	OLIG2	Tal-related_factors	JASPAR
+ONECUT1	ONECUT1	HD-CUT_factors	JASPAR
+PAX7	PAX7	Paired_plus_homeo_domain	JASPAR
+Phox2b	PHOX2B	Paired-related_HD_factors	JASPAR
+Pitx1	Pitx1	Paired-related_HD_factors	JASPAR
+POU4F2	POU4F2	POU_domain_factors	JASPAR
+RUNX3	RUNX3	Runt-related_factors	JASPAR
+SP4	SP4	Three-zinc_finger_Kruppel-related_factors	JASPAR
+SPDEF	SPDEF	Ets-related_factors	JASPAR
+SPIC	SPIC	Ets-related_factors	JASPAR
+TBX2	TBX2	TBX2-related_factors	JASPAR
+TBX20	TBX20	TBX1-related_factors	JASPAR
+TBX21	TBX21	TBrain-related_factors	JASPAR
+TFAP4	TFAP4	bHLH-ZIP_factors	JASPAR
+TFEB	TFEB	bHLH-ZIP_factors	JASPAR
+Vdr	Vdr	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+ZBTB7B	ZBTB7B	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZBTB7C	ZBTB7C	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZIC1	ZIC1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZIC3	ZIC3	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZBTB18	ZBTB18	More_than_3_adjacent_zinc_finger_factors	JASPAR
+LBX2	LBX2	NK-related_factors	JASPAR
+LHX2	LHX2	HD-LIM_factors	JASPAR
+LHX9	LHX9	HD-LIM_factors	JASPAR
+LMX1A	LMX1A	HD-LIM_factors	JASPAR
+LMX1B	LMX1B	HD-LIM_factors	JASPAR
+Lhx4	Lhx4	HD-LIM_factors	JASPAR
+Lhx8	Lhx8	HD-LIM_factors	JASPAR
+MEOX2	MEOX2	HOX-related_factors	JASPAR
+MNX1	MNX1	HOX-related_factors	JASPAR
+MSX2	MSX2	NK-related_factors	JASPAR
+Msx3	Msx3	NK-related_factors	JASPAR
+NOTO	NOTO	NK-related_factors	JASPAR
+OTX1	OTX1	Paired-related_HD_factors	JASPAR
+OTX2	OTX2	Paired-related_HD_factors	JASPAR
+PHOX2A	PHOX2A	Paired-related_HD_factors	JASPAR
+PITX3	PITX3	Paired-related_HD_factors	JASPAR
+PROP1	PROP1	Paired-related_HD_factors	JASPAR
+PRRX1	PRRX1	Paired-related_HD_factors	JASPAR
+RAX2	RAX2	Paired-related_HD_factors	JASPAR
+RAX	RAX	Paired-related_HD_factors	JASPAR
+RHOXF1	RHOXF1	Paired-related_HD_factors	JASPAR
+Shox2	Shox2	Paired-related_HD_factors	JASPAR
+UNCX	UNCX	Paired-related_HD_factors	JASPAR
+VAX1	VAX1	NK-related_factors	JASPAR
+VAX2	VAX2	NK-related_factors	JASPAR
+VENTX	VENTX	NK-related_factors	JASPAR
+VSX1	VSX1	Paired-related_HD_factors	JASPAR
+VSX2	VSX2	Paired-related_HD_factors	JASPAR
+NR3C2	NR3C2	Steroid_hormone_receptors_(NR3)	JASPAR
+Nr2f6_var2	Nr2f6	RXR-related_receptors_(NR2)	JASPAR
+RARA	RARA	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+RARA_var2	RARA	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+BCL6B	BCL6B	More_than_3_adjacent_zinc_finger_factors	JASPAR
+EGR3	EGR3	Three-zinc_finger_Kruppel-related_factors	JASPAR
+EGR4	EGR4	Three-zinc_finger_Kruppel-related_factors	JASPAR
+GLI2	GLI2	More_than_3_adjacent_zinc_finger_factors	JASPAR
+GLIS1	GLIS1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+GLIS2	GLIS2	More_than_3_adjacent_zinc_finger_factors	JASPAR
+GLIS3	GLIS3	More_than_3_adjacent_zinc_finger_factors	JASPAR
+HIC2	HIC2	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+Hic1	Hic1	Factors_with_multiple_dispersed_zinc_fingers	JASPAR
+KLF14	KLF14	Three-zinc_finger_Kruppel-related_factors	JASPAR
+KLF16	KLF16	Three-zinc_finger_Kruppel-related_factors	JASPAR
+Klf12	Klf12	Three-zinc_finger_Kruppel-related_factors	JASPAR
+SCRT1	SCRT1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+SCRT2	SCRT2	More_than_3_adjacent_zinc_finger_factors	JASPAR
+SNAI2	SNAI2	More_than_3_adjacent_zinc_finger_factors	JASPAR
+SP3	SP3	Three-zinc_finger_Kruppel-related_factors	JASPAR
+SP8	SP8	Three-zinc_finger_Kruppel-related_factors	JASPAR
+YY2	YY2	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZBED1	ZBED1	BED_zinc_finger_factors	JASPAR
+ZBTB7A	ZBTB7A	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZIC4	ZIC4	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZNF410	ZNF410	More_than_3_adjacent_zinc_finger_factors	JASPAR
+ZNF740	ZNF740	Other_factors_with_up_to_three_adjacent_zinc_fingers	JASPAR
+CUX1	CUX1	HD-CUT_factors	JASPAR
+CUX2	CUX2	HD-CUT_factors	JASPAR
+ONECUT2	ONECUT2	HD-CUT_factors	JASPAR
+ONECUT3	ONECUT3	HD-CUT_factors	JASPAR
+E2F7	E2F7	E2F-related_factors	JASPAR
+ELK3	ELK3	Ets-related_factors	JASPAR
+ERF	ERF	Ets-related_factors	JASPAR
+ETV1	ETV1	Ets-related_factors	JASPAR
+ETV2	ETV2	Ets-related_factors	JASPAR
+ETV3	ETV3	Ets-related_factors	JASPAR
+ETV4	ETV4	Ets-related_factors	JASPAR
+ETV5	ETV5	Ets-related_factors	JASPAR
+GATA5	GATA5	GATA-type_zinc_fingers	JASPAR
+GCM2	GCM2	GCM_factors	JASPAR
+LEF1	LEF1	TCF-7-related_factors	JASPAR
+Tcf7	Tcf7	TCF-7-related_factors	JASPAR
+HSF2	HSF2	HSF_factors	JASPAR
+HSF4	HSF4	HSF_factors	JASPAR
+IRF7	IRF7	Interferon-regulatory_factors	JASPAR
+MEF2D	MEF2D	Regulators_of_differentiation	JASPAR
+MEIS2	MEIS2	TALE-type_homeo_domain_factors	JASPAR
+MEIS3	MEIS3	TALE-type_homeo_domain_factors	JASPAR
+MYBL1	MYBL1	Myb/SANT_domain_factors	JASPAR
+MYBL2	MYBL2	Myb/SANT_domain_factors	JASPAR
+NFKB2	NFKB2	NF-kappaB-related_factors	JASPAR
+PAX1	PAX1	Paired_domain_only	JASPAR
+PAX3	PAX3	Paired_plus_homeo_domain	JASPAR
+PAX9	PAX9	Paired_domain_only	JASPAR
+PKNOX1	PKNOX1	TALE-type_homeo_domain_factors	JASPAR
+PKNOX2	PKNOX2	TALE-type_homeo_domain_factors	JASPAR
+POU1F1	POU1F1	POU_domain_factors	JASPAR
+POU2F1	POU2F1	POU_domain_factors	JASPAR
+POU3F1	POU3F1	POU_domain_factors	JASPAR
+POU3F2	POU3F2	POU_domain_factors	JASPAR
+POU3F3	POU3F3	POU_domain_factors	JASPAR
+POU3F4	POU3F4	POU_domain_factors	JASPAR
+POU4F1	POU4F1	POU_domain_factors	JASPAR
+POU4F3	POU4F3	POU_domain_factors	JASPAR
+POU5F1B	POU5F1B	POU_domain_factors	JASPAR
+POU6F2	POU6F2	POU_domain_factors	JASPAR
+PROX1	PROX1	HD-PROS_factors	JASPAR
+SMAD3	SMAD3	SMAD_factors	JASPAR
+TGIF1	TGIF1	TALE-type_homeo_domain_factors	JASPAR
+TGIF2	TGIF2	TALE-type_homeo_domain_factors	JASPAR
+RFX3	RFX3	RFX-related_factors	JASPAR
+RFX4	RFX4	RFX-related_factors	JASPAR
+EOMES	EOMES	TBrain-related_factors	JASPAR
+MGA	MGA	TBX6-related_factors	JASPAR
+TBR1	TBR1	TBrain-related_factors	JASPAR
+TBX15	TBX15	TBX1-related_factors	JASPAR
+TBX19	TBX19	Brachyury-related_factors	JASPAR
+TBX1	TBX1	TBX1-related_factors	JASPAR
+TBX4	TBX4	TBX2-related_factors	JASPAR
+TBX5	TBX5	TBX2-related_factors	JASPAR
+TEAD3	TEAD3	TEF-1-related_factors	JASPAR
+TEAD4	TEAD4	TEF-1-related_factors	JASPAR
+TFAP2A(var.2)	TFAP2A	AP-2	JASPAR
+TFAP2B	TFAP2B	AP-2	JASPAR
+TFAP2B(var.2)	TFAP2B	AP-2	JASPAR
+TFAP2B(var.3)	TFAP2B	AP-2	JASPAR
+TFAP2C(var.2)	TFAP2C	AP-2	JASPAR
+TFAP2C(var.3)	TFAP2C	AP-2	JASPAR
+Ascl2	Ascl2	MyoD_/_ASC-related_factors	JASPAR
+BHLHE23	BHLHE23	Tal-related_factors	JASPAR
+BHLHE22	BHLHE22	Tal-related_factors	JASPAR
+CLOCK	CLOCK	PAS_domain_factors	JASPAR
+FIGLA	FIGLA	Tal-related_factors	JASPAR
+HES5	HES5	Hairy-related_factors	JASPAR
+HES7	HES7	Hairy-related_factors	JASPAR
+HEY1	HEY1	Hairy-related_factors	JASPAR
+ID4	ID4	HLH_domain_only	JASPAR
+MNT	MNT	bHLH-ZIP_factors	JASPAR
+OLIG1	OLIG1	Tal-related_factors	JASPAR
+OLIG3	OLIG3	Tal-related_factors	JASPAR
+SREBF2(var.2)	SREBF2	bHLH-ZIP_factors	JASPAR
+Srebf1(var.2)	Srebf1	bHLH-ZIP_factors	JASPAR
+TCF4	TCF4	E2A-related_factors	JASPAR
+TFE3	TFE3	bHLH-ZIP_factors	JASPAR
+Tcf21	Tcf21	Tal-related_factors	JASPAR
+ATF4	ATF4	ATF-4-related_factors	JASPAR
+ATF7	ATF7	Jun-related_factors	JASPAR
+BATF3	BATF3	B-ATF-related_factors	JASPAR
+CEBPD	CEBPD	C/EBP-related	JASPAR
+CEBPE	CEBPE	C/EBP-related	JASPAR
+CEBPG	CEBPG	C/EBP-related	JASPAR
+CREB3L1	CREB3L1	CREB-related_factors	JASPAR
+Creb5	Creb5	CREB-related_factors	JASPAR
+NFE2	NFE2	Jun-related_factors	JASPAR
+NRL	NRL	Maf-related_factors	JASPAR
+TEF	TEF	TEF-1-related_factors	JASPAR
+XBP1	XBP1	XBP-1-related_factors	JASPAR
+FOXB1	FOXB1	Forkhead_box_(FOX)_factors	JASPAR
+FOXC2	FOXC2	Forkhead_box_(FOX)_factors	JASPAR
+FOXD2	FOXD2	Forkhead_box_(FOX)_factors	JASPAR
+FOXO4	FOXO4	Forkhead_box_(FOX)_factors	JASPAR
+FOXO6	FOXO6	Forkhead_box_(FOX)_factors	JASPAR
+FOXP3	FOXP3	Forkhead_box_(FOX)_factors	JASPAR
+Foxj3	Foxj3	Forkhead_box_(FOX)_factors	JASPAR
+Foxk1	Foxk1	Forkhead_box_(FOX)_factors	JASPAR
+Alx4	Alx4	Paired-related_HD_factors	JASPAR
+Alx1	Alx1	Paired-related_HD_factors	JASPAR
+RXRB	RXRB	RXR-related_receptors_(NR2)	JASPAR
+RXRG	RXRG	RXR-related_receptors_(NR2)	JASPAR
+Rarb	Rarb	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+Rarb(var.2)	Rarb	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+Rarg	Rarg	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+Rarg(var.2)	Rarg	Thyroid_hormone_receptor-related_factors_(NR1)	JASPAR
+TP73	TP73	p53-related_factors	JASPAR
+GMEB2	GMEB2	GMEB	JASPAR
+MTF1	MTF1	More_than_3_adjacent_zinc_finger_factors	JASPAR
+E2F2	E2F2	E2F-related_factors	JASPAR
+E2F8	E2F8	E2F-related_factors	JASPAR
+SOX21	SOX21	SOX-related_factors	JASPAR
+SOX4	SOX4	SOX-related_factors	JASPAR
+SOX8	SOX8	SOX-related_factors	JASPAR
+Sox11	Sox11	SOX-related_factors	JASPAR
+Sox1	Sox1	SOX-related_factors	JASPAR
+TFEC	TFEC	bHLH-ZIP_factors	JASPAR
+TFAP2A(var.3)	TFAP2A	AP-2	JASPAR
+HOXD12	HOXD12	HOX-related_factors	JASPAR
+Arx	Arx	Paired-related_HD_factors	JASPAR
+BARX1	BARX1	NK-related_factors	JASPAR
+BSX	BSX	NK-related_factors	JASPAR
+Barhl1	Barhl1	NK-related_factors	JASPAR
+CDX1	CDX1	HOX-related_factors	JASPAR
+Dlx1	Dlx1	NK-related_factors	JASPAR
+Dlx3	Dlx3	NK-related_factors	JASPAR
+Dlx4	Dlx4	NK-related_factors	JASPAR
+DLX6	DLX6	NK-related_factors	JASPAR
+Dmbx1	Dmbx1	Paired-related_HD_factors	JASPAR
+DUXA	DUXA	Paired-related_HD_factors	JASPAR
+Dlx2	Dlx2	NK-related_factors	JASPAR
+EMX2	EMX2	NK-related_factors	JASPAR
+EVX1	EVX1	HOX-related_factors	JASPAR
+EVX2	EVX2	HOX-related_factors	JASPAR
+GBX1	GBX1	HOX-related_factors	JASPAR
+GBX2	GBX2	HOX-related_factors	JASPAR
+GSC2	GSC2	Paired-related_HD_factors	JASPAR
+GSX1	GSX1	HOX-related_factors	JASPAR
+GSX2	GSX2	HOX-related_factors	JASPAR
+HESX1	HESX1	Paired-related_HD_factors	JASPAR
+HMBOX1	HMBOX1	POU_domain_factors	JASPAR
+Hmx1	Hmx1	NK-related_factors	JASPAR
+Hmx2	Hmx2	NK-related_factors	JASPAR
+Hmx3	Hmx3	NK-related_factors	JASPAR
+HOXA10	HOXA10	HOX-related_factors	JASPAR
+HOXA2	HOXA2	HOX-related_factors	JASPAR
+HOXB13	HOXB13	HOX-related_factors	JASPAR
+HOXB2	HOXB2	HOX-related_factors	JASPAR
+HOXB3	HOXB3	HOX-related_factors	JASPAR
+Hoxb5	Hoxb5	HOX-related_factors	JASPAR
+HOXC10	HOXC10	HOX-related_factors	JASPAR
+HOXC12	HOXC12	HOX-related_factors	JASPAR
+HOXC13	HOXC13	HOX-related_factors	JASPAR
+HOXD11	HOXD11	HOX-related_factors	JASPAR
+HOXD13	HOXD13	HOX-related_factors	JASPAR
+Hoxd8	Hoxd8	HOX-related_factors	JASPAR
+Hoxa11	HOXA11	HOX-related_factors	JASPAR
+Hoxd3	Hoxd3	HOX-related_factors	JASPAR
+Hoxd9	Hoxd9	HOX-related_factors	JASPAR
+ISL2	ISL2	HD-LIM_factors	JASPAR
+Hes1	Hes1	Hairy-related_factors	JASPAR
+TFAP2D	TFAP2D	AP-2	CISBP
+TFAP2E	TFAP2E	AP-2	CISBP
+ARID5B	ARID5B	ARID/BRIGHT	CISBP
+ARID5B_var2	ARID5B	ARID/BRIGHT	CISBP
+HMGA1	HMGA1	AT hook	CISBP
+ARNTL2	ARNTL2	bHLH	CISBP
+AHRR	AHRR	bHLH	CISBP
+AHR	AHR	bHLH	CISBP
+AHR_var2	AHR	bHLH	CISBP
+SIM1	SIM1	bHLH	CISBP
+HAND1	HAND1	bHLH	CISBP
+EPAS1	EPAS1	bHLH	CISBP
+ID3	ID3	bHLH	CISBP
+MXI1	MXI1	bHLH	CISBP
+MXI1_var2	MXI1	bHLH	CISBP
+MXI1_var3	MXI1	bHLH	CISBP
+TWIST1	TWIST1	bHLH	CISBP
+NEUROG3	NEUROG3	bHLH	CISBP
+TCF15	TCF15	bHLH	CISBP
+ID1	ID1	bHLH	CISBP
+NPAS1	NPAS1	bHLH	CISBP
+FERD3L	FERD3L	bHLH	CISBP
+NPAS3	NPAS3	bHLH	CISBP
+SIM2	SIM2	bHLH	CISBP
+NEUROD1	NEUROD1	bHLH	CISBP
+TCF23	TCF23	bHLH	CISBP
+HEYL	HEYL	bHLH	CISBP
+HAND2	HAND2	bHLH	CISBP
+MESP1	MESP1	bHLH	CISBP
+PTF1A	PTF1A	bHLH	CISBP
+ATOH8	ATOH8	bHLH	CISBP
+ARNT2	ARNT2	bHLH	CISBP
+NPAS4	NPAS4	bHLH	CISBP
+NHLH2	NHLH2	bHLH	CISBP
+ATOH7	ATOH7	bHLH	CISBP
+MESP2	MESP2	bHLH	CISBP
+HES4	HES4	bHLH	CISBP
+CREB3L3	CREB3L3	bZIP	CISBP
+BACH2	BACH2	bZIP	CISBP
+ATF2	ATF2	bZIP	CISBP
+ATF2_var2	ATF2	bZIP	CISBP
+ATF6	ATF6	bZIP	CISBP
+ATF6_var2	ATF6	bZIP	CISBP
+FOSB	FOSB	bZIP	CISBP
+CREB3L4	CREB3L4	bZIP	CISBP
+BATF	BATF	bZIP	CISBP
+BATF_var2	BATF	bZIP	CISBP
+BACH1	BACH1	bZIP	CISBP
+BACH1_var2	BACH1	bZIP	CISBP
+BACH1_var3	BACH1	bZIP	CISBP
+BACH1_var4	BACH1	bZIP	CISBP
+BACH1_var5	BACH1	bZIP	CISBP
+ATF5	ATF5	bZIP	CISBP
+DDIT3	DDIT3	bZIP	CISBP
+MAF	MAF	bZIP	CISBP
+MAFA	MAFA	bZIP	CISBP
+ATF6B	ATF6B	bZIP	CISBP
+HIVEP2	HIVEP2	C2H2 ZF	CISBP
+ZIC2	ZIC2	C2H2 ZF	CISBP
+ZIC2_var2	ZIC2	C2H2 ZF	CISBP
+ZNF76	ZNF76	C2H2 ZF	CISBP
+KLF6	KLF6	C2H2 ZF	CISBP
+ZFY	ZFY	C2H2 ZF	CISBP
+HIVEP1	HIVEP1	C2H2 ZF	CISBP
+PATZ1	PATZ1	C2H2 ZF	CISBP
+KLF8	KLF8	C2H2 ZF	CISBP
+MAZ	MAZ	C2H2 ZF	CISBP
+ZKSCAN1	ZKSCAN1	C2H2 ZF	CISBP
+GLI3	GLI3	C2H2 ZF	CISBP
+KLF3	KLF3	C2H2 ZF	CISBP
+PRDM4	PRDM4	C2H2 ZF	CISBP
+GLI1	GLI1	C2H2 ZF	CISBP
+ZBTB47	ZBTB47	C2H2 ZF	CISBP
+KLF7	KLF7	C2H2 ZF	CISBP
+PLAGL1	PLAGL1	C2H2 ZF	CISBP
+KLF9	KLF9	C2H2 ZF	CISBP
+BCL11A	BCL11A	C2H2 ZF	CISBP
+IKZF4	IKZF4	C2H2 ZF	CISBP
+CTCFL	CTCFL	C2H2 ZF	CISBP
+SNAI1	SNAI1	C2H2 ZF	CISBP
+ZNF384	ZNF384	C2H2 ZF	CISBP
+ZBTB1	ZBTB1	C2H2 ZF	CISBP
+FEZF1	FEZF1	C2H2 ZF	CISBP
+ZSCAN10	ZSCAN10	C2H2 ZF	CISBP
+ZIC5	ZIC5	C2H2 ZF	CISBP
+PRDM16	PRDM16	C2H2 ZF	CISBP
+OSR1	OSR1	C2H2 ZF	CISBP
+FEZF2	FEZF2	C2H2 ZF	CISBP
+ZNF333	ZNF333	C2H2 ZF	CISBP
+ZNF75A	ZNF75A	C2H2 ZF	CISBP
+ZNF281	ZNF281	C2H2 ZF	CISBP
+ZNF148	ZNF148	C2H2 ZF	CISBP
+KLF15	KLF15	C2H2 ZF	CISBP
+ZNF691	ZNF691	C2H2 ZF	CISBP
+ZNF589	ZNF589	C2H2 ZF	CISBP
+OSR2	OSR2	C2H2 ZF	CISBP
+ZNF219	ZNF219	C2H2 ZF	CISBP
+ZNF202	ZNF202	C2H2 ZF	CISBP
+ZNF232	ZNF232	C2H2 ZF	CISBP
+E4F1	E4F1	C2H2 ZF	CISBP
+ZBTB49	ZBTB49	C2H2 ZF	CISBP
+ZNF32	ZNF32	C2H2 ZF	CISBP
+ZNF35	ZNF35	C2H2 ZF	CISBP
+ZNF282	ZNF282	C2H2 ZF	CISBP
+SP7	SP7	C2H2 ZF	CISBP
+ZNF524	ZNF524	C2H2 ZF	CISBP
+ZNF524_var2	ZNF524	C2H2 ZF	CISBP
+ZNF274	ZNF274	C2H2 ZF	CISBP
+ZNF274_var2	ZNF274	C2H2 ZF	CISBP
+ZNF274_var3	ZNF274	C2H2 ZF	CISBP
+ZNF274_var4	ZNF274	C2H2 ZF	CISBP
+OVOL1	OVOL1	C2H2 ZF	CISBP
+ZBTB4	ZBTB4	C2H2 ZF	CISBP
+ZBTB4_var2	ZBTB4	C2H2 ZF	CISBP
+ZNF683	ZNF683	C2H2 ZF	CISBP
+ZNF713	ZNF713	C2H2 ZF	CISBP
+ZBTB42	ZBTB42	C2H2 ZF	CISBP
+ZNF784	ZNF784	C2H2 ZF	CISBP
+ZSCAN4	ZSCAN4	C2H2 ZF	CISBP
+WT1	WT1	C2H2 ZF	CISBP
+SNAI3	SNAI3	C2H2 ZF	CISBP
+ZBTB3	ZBTB3	C2H2 ZF	CISBP
+IKZF1	IKZF1	C2H2 ZF	CISBP
+IKZF1_var2	IKZF1	C2H2 ZF	CISBP
+IKZF1_var3	IKZF1	C2H2 ZF	CISBP
+IKZF1_var4	IKZF1	C2H2 ZF	CISBP
+IKZF1_var5	IKZF1	C2H2 ZF	CISBP
+ZBTB6	ZBTB6	C2H2 ZF	CISBP
+ZBTB6_var2	ZBTB6	C2H2 ZF	CISBP
+ZNF75D	ZNF75D	C2H2 ZF	CISBP
+ZKSCAN4	ZKSCAN4	C2H2 ZF	CISBP
+SP6	SP6	C2H2 ZF	CISBP
+ZKSCAN3	ZKSCAN3	C2H2 ZF	CISBP
+ZSCAN16	ZSCAN16	C2H2 ZF	CISBP
+ZNF652	ZNF652	C2H2 ZF	CISBP
+SP5	SP5	C2H2 ZF	CISBP
+ZBTB12	ZBTB12	C2H2 ZF	CISBP
+SP9	SP9	C2H2 ZF	CISBP
+YBX1	YBX1	CSD	CISBP
+RBPJ	RBPJ	CSL	CISBP
+CXXC1	CXXC1	CxxC	CISBP
+DMRT1	DMRT1	DM	CISBP
+DMRT1_var2	DMRT1	DM	CISBP
+DMRTA2	DMRTA2	DM	CISBP
+DMRT2	DMRT2	DM	CISBP
+TFDP2	TFDP2	DP,E2F	CISBP
+TFDP3	TFDP3	DP,E2F	CISBP
+TFDP1	TFDP1	DP,E2F	CISBP
+E2F5	E2F5	E2F	CISBP
+ETV7	ETV7	Ets	CISBP
+ELF2	ELF2	Ets	CISBP
+ETS2	ETS2	Ets	CISBP
+FOXF1	FOXF1	Forkhead	CISBP
+FOXF1_var2	FOXF1	Forkhead	CISBP
+FOXM1	FOXM1	Forkhead	CISBP
+FOXP4	FOXP4	Forkhead	CISBP
+FOXK2	FOXK2	Forkhead	CISBP
+FOXA3	FOXA3	Forkhead	CISBP
+FOXE1	FOXE1	Forkhead	CISBP
+FOXS1	FOXS1	Forkhead	CISBP
+FOXI2	FOXI2	Forkhead	CISBP
+FOXE3	FOXE3	Forkhead	CISBP
+FOXB2	FOXB2	Forkhead	CISBP
+GATA6	GATA6	GATA	CISBP
+GATA6_var2	GATA6	GATA	CISBP
+UBP1	UBP1	Grainyhead	CISBP
+ISL1	ISL1	Homeodomain	CISBP
+HOXC8	HOXC8	Homeodomain	CISBP
+BARX2	BARX2	Homeodomain	CISBP
+LHX5	LHX5	Homeodomain	CISBP
+SIX4	SIX4	Homeodomain	CISBP
+DLX5	DLX5	Homeodomain	CISBP
+HOXA1	HOXA1	Homeodomain	CISBP
+HOXA1_var2	HOXA1	Homeodomain	CISBP
+HOXA3	HOXA3	Homeodomain	CISBP
+HOXA6	HOXA6	Homeodomain	CISBP
+NOBOX	NOBOX	Homeodomain	CISBP
+NOBOX_var2	NOBOX	Homeodomain	CISBP
+HOXB6	HOXB6	Homeodomain	CISBP
+NANOG	NANOG	Homeodomain	CISBP
+IRX4	IRX4	Homeodomain	CISBP
+TLX2	TLX2	Homeodomain	CISBP
+TLX2_var2	TLX2	Homeodomain	CISBP
+HOXB8	HOXB8	Homeodomain	CISBP
+HOXB7	HOXB7	Homeodomain	CISBP
+HOXB1	HOXB1	Homeodomain	CISBP
+HOXA7	HOXA7	Homeodomain	CISBP
+NKX2-4	NKX2-4	Homeodomain	CISBP
+NKX2-2	NKX2-2	Homeodomain	CISBP
+NKX2-2_var2	NKX2-2	Homeodomain	CISBP
+SIX1	SIX1	Homeodomain	CISBP
+HOXD1	HOXD1	Homeodomain	CISBP
+HOXD10	HOXD10	Homeodomain	CISBP
+CDX4	CDX4	Homeodomain	CISBP
+LHX1	LHX1	Homeodomain	CISBP
+NKX2-1	NKX2-1	Homeodomain	CISBP
+ZFHX2	ZFHX2	Homeodomain	CISBP
+HLX	HLX	Homeodomain	CISBP
+ZFHX3	ZFHX3	Homeodomain	CISBP
+ZFHX3_var2	ZFHX3	Homeodomain	CISBP
+HHEX	HHEX	Homeodomain	CISBP
+TGIF2LX	TGIF2LX	Homeodomain	CISBP
+IRX6	IRX6	Homeodomain	CISBP
+PITX2	PITX2	Homeodomain	CISBP
+TLX3	TLX3	Homeodomain	CISBP
+NKX6-3	NKX6-3	Homeodomain	CISBP
+ZHX1	ZHX1	Homeodomain	CISBP
+HDX	HDX	Homeodomain	CISBP
+DRGX	DRGX	Homeodomain	CISBP
+PBX3	PBX3	Homeodomain	CISBP
+PBX3_var2	PBX3	Homeodomain	CISBP
+HOXD4	HOXD4	Homeodomain	CISBP
+IRX1	IRX1	Homeodomain	CISBP
+IRX2	IRX2	Homeodomain	CISBP
+SIX2	SIX2	Homeodomain	CISBP
+HOXB9	HOXB9	Homeodomain	CISBP
+OTP	OTP	Homeodomain	CISBP
+TGIF2LY	TGIF2LY	Homeodomain	CISBP
+IRX5	IRX5	Homeodomain	CISBP
+SIX5	SIX5	Homeodomain	CISBP
+SIX5_var2	SIX5	Homeodomain	CISBP
+IRX3	IRX3	Homeodomain	CISBP
+NKX2-6	NKX2-6	Homeodomain	CISBP
+HOXB4	HOXB4	Homeodomain	CISBP
+SIX6	SIX6	Homeodomain	CISBP
+DBX2	DBX2	Homeodomain	CISBP
+HOXC6	HOXC6	Homeodomain	CISBP
+HOXC5	HOXC5	Homeodomain	CISBP
+PBX2	PBX2	Homeodomain	CISBP
+DPRX	DPRX	Homeodomain	CISBP
+DPRX_var2	DPRX	Homeodomain	CISBP
+HOMEZ	HOMEZ	Homeodomain	CISBP
+NKX1-1	NKX1-1	Homeodomain	CISBP
+POU5F1	POU5F1	Homeodomain,POU	CISBP
+POU5F1_var2	POU5F1	Homeodomain,POU	CISBP
+HSFY2	HSFY2	HSF	CISBP
+HSFY2_var2	HSFY2	HSF	CISBP
+HSFY2_var3	HSFY2	HSF	CISBP
+HSFY1	HSFY1	HSF	CISBP
+IRF6	IRF6	IRF	CISBP
+IRF3	IRF3	IRF	CISBP
+IRF3_var2	IRF3	IRF	CISBP
+IRF5	IRF5	IRF	CISBP
+IRF5_var2	IRF5	IRF	CISBP
+IRF5_var3	IRF5	IRF	CISBP
+IRF4	IRF4	IRF	CISBP
+IRF4_var2	IRF4	IRF	CISBP
+IRF4_var3	IRF4	IRF	CISBP
+CDC5L	CDC5L	Myb/SANT	CISBP
+CDC5L_var2	CDC5L	Myb/SANT	CISBP
+TERF2	TERF2	Myb/SANT	CISBP
+MYPOP	MYPOP	Myb/SANT	CISBP
+NR1H4	NR1H4	Nuclear receptor	CISBP
+NR1H3	NR1H3	Nuclear receptor	CISBP
+PGR	PGR	Nuclear receptor	CISBP
+PGR_var2	PGR	Nuclear receptor	CISBP
+PPARD	PPARD	Nuclear receptor	CISBP
+NR4A3	NR4A3	Nuclear receptor	CISBP
+NR2C1	NR2C1	Nuclear receptor	CISBP
+NR4A1	NR4A1	Nuclear receptor	CISBP
+THRA	THRA	Nuclear receptor	CISBP
+THRA_var2	THRA	Nuclear receptor	CISBP
+THRA_var3	THRA	Nuclear receptor	CISBP
+NR1D1	NR1D1	Nuclear receptor	CISBP
+NR1H2	NR1H2	Nuclear receptor	CISBP
+NR5A1	NR5A1	Nuclear receptor	CISBP
+NR1I3	NR1I3	Nuclear receptor	CISBP
+NR1I3_var2	NR1I3	Nuclear receptor	CISBP
+RORC	RORC	Nuclear receptor	CISBP
+NR1I2	NR1I2	Nuclear receptor	CISBP
+NR1I2_var2	NR1I2	Nuclear receptor	CISBP
+NR6A1	NR6A1	Nuclear receptor	CISBP
+NR6A1_var2	NR6A1	Nuclear receptor	CISBP
+THRB	THRB	Nuclear receptor	CISBP
+THRB_var2	THRB	Nuclear receptor	CISBP
+THRB_var3	THRB	Nuclear receptor	CISBP
+THRB_var4	THRB	Nuclear receptor	CISBP
+THRB_var5	THRB	Nuclear receptor	CISBP
+NR2F2	NR2F2	Nuclear receptor	CISBP
+NR2F2_var2	NR2F2	Nuclear receptor	CISBP
+NR2F2_var3	NR2F2	Nuclear receptor	CISBP
+NR2F2_var4	NR2F2	Nuclear receptor	CISBP
+NR2F2_var5	NR2F2	Nuclear receptor	CISBP
+PPARA	PPARA	Nuclear receptor	CISBP
+PPARA_var2	PPARA	Nuclear receptor	CISBP
+PPARA_var3	PPARA	Nuclear receptor	CISBP
+PAX8	PAX8	Paired box	CISBP
+LCOR	LCOR	Pipsqueak	CISBP
+NFATC4	NFATC4	Rel	CISBP
+RELB	RELB	Rel	CISBP
+RFX7	RFX7	RFX	CISBP
+RFX6	RFX6	RFX	CISBP
+RFX8	RFX8	RFX	CISBP
+AIRE	AIRE	SAND	CISBP
+NFIB	NFIB	SMAD	CISBP
+SMAD1	SMAD1	SMAD	CISBP
+SMAD2	SMAD2	SMAD	CISBP
+SOX30	SOX30	Sox	CISBP
+CIC	CIC	Sox	CISBP
+HBP1	HBP1	Sox	CISBP
+BBX	BBX	Sox	CISBP
+SOX15	SOX15	Sox	CISBP
+SOX15_var2	SOX15	Sox	CISBP
+SOX15_var3	SOX15	Sox	CISBP
+SOX15_var4	SOX15	Sox	CISBP
+SOX13	SOX13	Sox	CISBP
+TCF7L1	TCF7L1	Sox	CISBP
+SOX14	SOX14	Sox	CISBP
+SOX14_var2	SOX14	Sox	CISBP
+SOX14_var3	SOX14	Sox	CISBP
+SOX7	SOX7	Sox	CISBP
+SOX7_var2	SOX7	Sox	CISBP
+SOX7_var3	SOX7	Sox	CISBP
+SOX12	SOX12	Sox	CISBP
+SOX18	SOX18	Sox	CISBP
+SOX18_var2	SOX18	Sox	CISBP
+SOX18_var3	SOX18	Sox	CISBP
+SOX18_var4	SOX18	Sox	CISBP
+STAT5A	STAT5A	STAT	CISBP
+STAT5A_var2	STAT5A	STAT	CISBP
+STAT5A_var3	STAT5A	STAT	CISBP
+STAT5A_var4	STAT5A	STAT	CISBP
+TBX3	TBX3	T-box	CISBP
+TBX10	TBX10	T-box	CISBP
+NFYC	NFYC	Unknown	CISBP
+CBFB	CBFB	Unknown	CISBP
+CEBPZ	CEBPZ	Unknown	CISBP
+NR0B1	NR0B1	Unknown	CISBP
+ZNF350	ZNF350	Unknown	CISBP
+bHLH_1_merged	AHR|AHRR	bHLH
+bHLH-ZIP_factors_1_merged	Srebf1|BHLHE40|BHLHE41|TFE3|TFEB|TFEC|ARNTL2|MLX|MLXIPL|SREBF2|Arntl	bHLH-ZIP_factors
+bZIP_1_merged	ATF2|GMEB2	bZIP
+bZIP_2_merged	ATF6|ATF6B|ATF6	bZIP
+Tal-related_factors_1_merged	Bhlha15|Twist2|ATOH7|TCF23	Tal-related_factors
+Tal-related_factors_2_merged	FIGLA|ATOH8	Tal-related_factors
+bZIP_3_merged	BACH1|BACH2	bZIP
+bZIP_4_merged	BACH1|Mitf	bZIP
+bZIP_5_merged	BACH1|NFE2	bZIP
+Jun-related_factors_1_merged	Nfe2l2|BACH1|Mafk	Jun-related_factors
+bZIP_6_merged	BATF|JUN	bZIP
+Runt-related_factors_1_merged	CBFB|RUNX1	Runt-related_factors
+Homeodomain_1_merged	NFYC|PBX3|PBX3|CEBPZ	Homeodomain
+Sox_1_merged	CIC|MAF|Mafb|NRL	Sox
+bZIP_7_merged	CREB3L3|CREB3L4|JDP2|ATF7|Creb5|BATF3	bZIP
+Homeodomain_2_merged	HOXD1|DBX2	Homeodomain
+Homeodomain_3_merged	NKX6-3|DLX5|HOXA6|HOXB4|SHOX|HOXC5	Homeodomain
+DM_1_merged	DMRT1|DMRTA2	DM
+DM_2_merged	DMRT1|DMRT3	DM
+Paired-related_HD_factors_1_merged	GSC|GSC2|DPRX	Paired-related_HD_factors
+Paired-related_HD_factors_2_merged	PHOX2B|PROP1|DRGX|PHOX2A	Paired-related_HD_factors
+MyoD_ASC-related_factors_1_merged	Myod1|FERD3L	MyoD_/_ASC-related_factors
+C2H2_ZF_1_merged	FEZF1|FEZF2	C2H2 ZF
+Forkhead_box_FOX_factors_1_merged	FOXA1|FOXA3|FOXB2|FOXS1|Foxa2	Forkhead_box_(FOX)_factors
+Forkhead_1_merged	FOXE1|Foxd3	Forkhead
+Forkhead_2_merged	FOXK2|FOXG1|FOXP4|FOXI1|FOXL1|FOXO3|FOXO4|FOXO6|FOXP3|Foxj2|FOXE3|FOXD1|FOXD2	Forkhead
+Forkhead_box_FOX_factors_2_merged	Foxq1|FOXF1	Forkhead_box_(FOX)_factors
+GATA_1_merged	GATA6|GATA5	GATA
+C2H2_ZF_2_merged	GLI1|GLI3	C2H2 ZF
+bHLH_2_merged	HAND1|HAND2	bHLH
+Hairy-related_factors_1_merged	Hes1|HES4|Tcfl5	Hairy-related_factors
+bHLH-ZIP_factors_2_merged	MAX|Hes2|HEYL|HEY1|HEY2|MNT|CLOCK	bHLH-ZIP_factors
+Homeodomain_4_merged	LHX1|LHX5|NOBOX|NOBOX|HOXA1	Homeodomain
+Homeodomain_5_merged	HOXB1|HOXA1	Homeodomain
+Homeodomain_6_merged	HOXB6|HOXB7|HOXB8|PBX1	Homeodomain
+HSF_1_merged	HSFY2|HSFY1|HSFY2	HSF
+C2H2_ZF_3_merged	SNAI1|Id2|Mycn|SNAI2|Npas2|ID1|ID3|MESP1|MESP2|MXI1|TCF3|TCF4|Arnt|ID4|Creb3l2|Mlxip	C2H2 ZF
+C2H2_ZF_4_merged	IKZF4|IKZF1|IKZF1	C2H2 ZF
+C2H2_ZF_5_merged	IKZF1|IKZF1	C2H2 ZF
+IRF_1_merged	IRF3|IRF2	IRF
+Interferon-regulatory_factors_1_merged	IRF9|IRF4|IRF8|IRF5	Interferon-regulatory_factors
+Homeodomain_7_merged	IRX1|IRX3	Homeodomain
+Homeodomain_8_merged	IRX2|IRX5	Homeodomain
+Homeodomain_9_merged	IRX4|IRX6	Homeodomain
+C2H2_ZF_6_merged	KLF7|SP3|KLF16|SP8|SP5|SP6|SP7|SP9	C2H2 ZF
+RFX-related_factors_1_merged	RFX2|RFX3|RFX4|RFX5|MXI1|Rfx1	RFX-related_factors
+Tal-related_factors_3_merged	BHLHE22|BHLHE23|Neurog1|NEUROD2|NEUROG2|OLIG1|OLIG2|OLIG3|NEUROG3|Atoh1	Tal-related_factors
+NFAT-related_factors_1_merged	NFATC2|NFATC4	NFAT-related_factors
+NK-related_factors_1_merged	TLX1|NFIB	NK-related_factors
+bHLH_3_merged	NHLH2|Myog|NHLH1|Tcf12|Ascl2	bHLH
+Homeodomain_10_merged	NKX1-1|Barhl1	Homeodomain
+Homeodomain_11_merged	NKX2-2|NKX2-2	Homeodomain
+Homeodomain_12_merged	NKX2-4|NKX2-6	Homeodomain
+bHLH_4_merged	NPAS1|NPAS3|SIM1|SIM2	bHLH
+Thyroid_hormone_receptor-related_factors_NR1_1_merged	RORA|RORC|NR1D1	Thyroid_hormone_receptor-related_factors_(NR1)
+Nuclear_receptor_1_merged	NR1H2|NR1H3|RXRA	Nuclear receptor
+Nuclear_receptor_2_merged	NR1I2|NR1I3	Nuclear receptor
+Nuclear_receptor_3_merged	NR1I2|NR1I3	Nuclear receptor
+Nuclear_receptor_4_merged	NR2F2|NR2F1|NR2F2|NR4A1|NR4A3	Nuclear receptor
+Nuclear_receptor_5_merged	PPARA|Nr2f6|RXRB|RXRG|NR2F2|Rxra|NR2C2	Nuclear receptor
+Steroid_hormone_receptors_NR3_1_merged	Esrra|Esrrg|ESRRB|NR5A1	Steroid_hormone_receptors_(NR3)
+Nuclear_receptor_6_merged	NR6A1|NR6A1	Nuclear receptor
+C2H2_ZF_7_merged	OSR1|OSR2	C2H2 ZF
+Homeodomain_13_merged	ZFHX3|MIXL1|HOXB2|EVX1|EVX2|LHX9|HOXA2|OTP|HOXB3|PDX1	Homeodomain
+Homeodomain,POU_1_merged	POU5F1|Sox2|POU5F1	Homeodomain,POU
+NGFI-B-related_receptors_NR4_1_merged	NR4A2|PPARA	NGFI-B-related_receptors_(NR4)
+RXR-related_receptors_NR2_1_merged	Rxra|PPARD	RXR-related_receptors_(NR2)
+Factors_with_multiple_dispersed_zinc_fingers_1_merged	Mecom|PRDM16	Factors_with_multiple_dispersed_zinc_fingers
+RFX_1_merged	RFX6|RFX7|RFX8	RFX
+Homeodomain_14_merged	SIX1|SIX4	Homeodomain
+Homeodomain_15_merged	SIX2|SIX6	Homeodomain
+TALE-type_homeo_domain_factors_1_merged	MEIS3|SNAI3|MEIS2	TALE-type_homeo_domain_factors
+Sox_2_merged	SOX13|SOX9|Sox5	Sox
+Sox_3_merged	SOX15|SOX14	Sox
+Sox_4_merged	SOX15|SOX18|SOX14	Sox
+Sox_5_merged	SOX7|Sox1|SOX18|SOX15	Sox
+Sox_6_merged	SOX7|SOX18	Sox
+SOX-related_factors_1_merged	SRY|SOX30	SOX-related_factors
+Sox_7_merged	SOX7|SOX21	Sox
+STAT_1_merged	STAT5A|STAT5A|Stat4|STAT5A	STAT
+TBrain-related_factors_1_merged	TBR1|TBX10|TBX2	TBrain-related_factors
+TCF-7-related_factors_1_merged	Tcf7|TCF7L1	TCF-7-related_factors
+AP-2_1_merged	TFAP2B|TFAP2E|TFAP2A|TFAP2C	AP-2
+DP,E2F_1_merged	TFDP1|TFDP2|TFDP3	DP,E2F
+TALE-type_homeo_domain_factors_2_merged	PKNOX1|PKNOX2|TGIF1|TGIF2|TGIF2LX|TGIF2LY	TALE-type_homeo_domain_factors
+Nuclear_receptor_7_merged	THRA|THRB|THRB	Nuclear receptor
+Nuclear_receptor_8_merged	THRA|THRB	Nuclear receptor
+Three-zinc_finger_Kruppel-related_factors_1_merged	EGR1|WT1	Three-zinc_finger_Kruppel-related_factors
+C2H2_ZF_8_merged	ZBTB42|ZBTB18	C2H2 ZF
+C2H2_ZF_9_merged	ZBTB47|ZNF652	C2H2 ZF
+C2H2_ZF_10_merged	ZBTB6|ZBTB6	C2H2 ZF
+Homeodomain_16_merged	ZFHX2|MEOX1|MEOX2|mix-a|NKX6-2|LMX1A|LMX1B|NKX6-1|Lhx4	Homeodomain
+C2H2_ZF_11_merged	ZFY|Zfx	C2H2 ZF
+C2H2_ZF_12_merged	ZIC2|ZIC2	C2H2 ZF
+C2H2_ZF_13_merged	ZKSCAN3|ZKSCAN4	C2H2 ZF
+C2H2_ZF_14_merged	ZNF274|ZNF274	C2H2 ZF
+More_than_3_adjacent_zinc_finger_factors_1_merged	PRDM1|ZNF683	More_than_3_adjacent_zinc_finger_factors
+C2H2_ZF_15_merged	ZNF75A|ZNF75D	C2H2 ZF
+HOX-related_factors_1_merged	MNX1|ALX3|GSX1|GSX2	HOX-related_factors
+Paired-related_HD_factors_3_merged	Arx|Alx1|Alx4	Paired-related_HD_factors
+Steroid_hormone_receptors_NR3_2_merged	Ar|NR3C1|NR3C2	Steroid_hormone_receptors_(NR3)
+CREB-related_factors_1_merged	Atf1|CREB1|Crem	CREB-related_factors
+Paired-related_HD_factors_4_merged	RAX2|BSX|ESX1|HESX1|ISX|LBX2|MSX1|MSX2|GBX1|Shox2|BARX1|EN1|EN2	Paired-related_HD_factors
+HOX-related_factors_2_merged	CDX1|CDX2|HOXA10	HOX-related_factors
+CEBP-related_1_merged	CEBPB|CEBPD|CEBPE|CEBPG	C/EBP-related
+XBP-1-related_factors_1_merged	XBP1|CREB3|CREB3L1	XBP-1-related_factors
+HD-CUT_factors_1_merged	CUX1|CUX2	HD-CUT_factors
+CEBP-related_2_merged	HLF|DBP|NFIL3|TEF	C/EBP-related
+NK-related_factors_2_merged	Dlx1|Dlx2|Dlx3|Dlx4|Prrx2|UNCX|PRRX1|DLX6	NK-related_factors
+Paired-related_HD_factors_5_merged	DUXA|DUX4	Paired-related_HD_factors
+E2F-related_factors_1_merged	E2F2|E2F3	E2F-related_factors
+E2F-related_factors_2_merged	E2F4|E2F6	E2F-related_factors
+E2F-related_factors_3_merged	E2F7|E2F8	E2F-related_factors
+Three-zinc_finger_Kruppel-related_factors_2_merged	EGR3|EGR4	Three-zinc_finger_Kruppel-related_factors
+Ets-related_factors_1_merged	ELF5|EHF|ELF1|ELF3|ELF4	Ets-related_factors
+Ets-related_factors_2_merged	ERF|ERG|Gabpa|ETS1|ETV1|ETV2|ETV3|ETV4|ETV5|FEV|FLI1|ELK1|ELK3|ELK4	Ets-related_factors
+TBrain-related_factors_2_merged	EOMES|POU6F1|LHX2|LHX6|VAX1|VAX2|NOTO|VSX1|VSX2|PAX4|Lhx8|EMX1|EMX2	TBrain-related_factors
+Steroid_hormone_receptors_NR3_3_merged	ESR1|ESR2	Steroid_hormone_receptors_(NR3)
+Jun-related_factors_2_merged	JUN|JUNB|JUND|FOS|FOSL1|FOSL2	Jun-related_factors
+Forkhead_box_FOX_factors_3_merged	FOXB1|FOXC1|FOXC2	Forkhead_box_(FOX)_factors
+Forkhead_box_FOX_factors_4_merged	FOXF2|FOXP2|Foxo1|FOXP1	Forkhead_box_(FOX)_factors
+Forkhead_box_FOX_factors_5_merged	Foxj3|Foxk1	Forkhead_box_(FOX)_factors
+GATA-type_zinc_fingers_1_merged	GATA2|GATA3|Gata1|Gata4	GATA-type_zinc_fingers
+Paired-related_HD_factors_6_merged	RAX|Msx3|GBX2	Paired-related_HD_factors
+GCM_factors_1_merged	GCM1|GCM2	GCM_factors
+More_than_3_adjacent_zinc_finger_factors_2_merged	GLIS1|GLIS2|GLIS3	More_than_3_adjacent_zinc_finger_factors
+CP2-related_factors_1_merged	TFCP2|GRHL1	CP2-related_factors
+Hairy-related_factors_2_merged	HES5|HES7	Hairy-related_factors
+Factors_with_multiple_dispersed_zinc_fingers_2_merged	Hic1|HIC2	Factors_with_multiple_dispersed_zinc_fingers
+POU_domain_factors_1_merged	HNF1A|HNF1B	POU_domain_factors
+HOX-related_factors_3_merged	HOXA13|HOXB13|HOXD13	HOX-related_factors
+HOX-related_factors_4_merged	HOXC12|HOXD11|HOXD12|HOXA11|HOXC10|HOXC11	HOX-related_factors
+HSF_factors_1_merged	HSF1|HSF2|HSF4	HSF_factors
+NK-related_factors_3_merged	Hmx1|Hmx2|Hmx3	NK-related_factors
+HOX-related_factors_5_merged	Hoxa9|Hoxc9	HOX-related_factors
+HOX-related_factors_6_merged	Hoxb5|Hoxd3	HOX-related_factors
+NK-related_factors_4_merged	Nkx3-1|NKX2-8|NKX2-3|ISL2|NKX3-2	NK-related_factors
+Fos-related_factors_1_merged	JDP2|JUN|JUND|NFE2	Fos-related_factors
+Three-zinc_finger_Kruppel-related_factors_3_merged	KLF14|SP4	Three-zinc_finger_Kruppel-related_factors
+Three-zinc_finger_Kruppel-related_factors_4_merged	KLF5|Klf1|Klf4	Three-zinc_finger_Kruppel-related_factors
+TCF-7-related_factors_2_merged	LEF1|TCF7L2	TCF-7-related_factors
+Maf-related_factors_1_merged	MAFF|MAFK	Maf-related_factors
+bHLH-ZIP_factors_3_merged	Myc|MYC	bHLH-ZIP_factors
+Regulators_of_differentiation_1_merged	MEF2A|MEF2B|MEF2C|MEF2D	Regulators_of_differentiation
+TBX2-related_factors_1_merged	TBX5|TBX1|TBX15|MGA|TBX4	TBX2-related_factors
+Tal-related_factors_4_merged	MSC|Tcf21	Tal-related_factors
+NFAT-related_factors_2_merged	NFATC3|NFAT5|NFATC1	NFAT-related_factors
+Nuclear_factor_1_1_merged	NFIC|NFIX	Nuclear_factor_1
+NF-kappaB-related_factors_1_merged	NFKB1|NFKB2	NF-kappaB-related_factors
+Thyroid_hormone_receptor-related_factors_NR1_2_merged	Rarg|Nr2f6|Rarb|RARA	Thyroid_hormone_receptor-related_factors_(NR1)
+HD-CUT_factors_2_merged	ONECUT1|ONECUT2|ONECUT3	HD-CUT_factors
+Paired-related_HD_factors_7_merged	PITX3|Pitx1|OTX1|OTX2	Paired-related_HD_factors
+Paired_domain_only_1_merged	PAX9|PAX1	Paired_domain_only
+Paired_plus_homeo_domain_1_merged	PAX3|PAX7	Paired_plus_homeo_domain
+POU_domain_factors_2_merged	POU3F2|POU3F3|Pou2f3|POU1F1|POU3F1	POU_domain_factors
+POU_domain_factors_3_merged	POU3F4|POU5F1B|POU2F1|POU2F2	POU_domain_factors
+POU_domain_factors_4_merged	POU4F1|POU4F2|POU4F3	POU_domain_factors
+RXR-related_receptors_NR2_2_merged	RXRA|Rarb|RARA	RXR-related_receptors_(NR2)
+Rel_1_merged	REL|RELA	Rel
+Runt-related_factors_2_merged	RUNX3|RUNX2	Runt-related_factors
+More_than_3_adjacent_zinc_finger_factors_3_merged	SCRT1|SCRT2	More_than_3_adjacent_zinc_finger_factors
+SOX-related_factors_2_merged	Sox11|SOX4|SOX8	SOX-related_factors
+Ets-related_factors_3_merged	SPI1|SPIC	Ets-related_factors
+bHLH-ZIP_factors_4_merged	SREBF2|SREBF1	bHLH-ZIP_factors
+STAT_factors_1_merged	Stat5b|STAT1|STAT3	STAT_factors
+SOX-related_factors_3_merged	Sox3|Sox6	SOX-related_factors
+Brachyury-related_factors_1_merged	TBX19|T	Brachyury-related_factors
+TBX1-related_factors_1_merged	TBX20|TBX21	TBX1-related_factors
+TEF-1-related_factors_1_merged	TEAD1|TEAD3|TEAD4	TEF-1-related_factors
+AP-2_2_merged	TFAP2A|TFAP2C|TFAP2B	AP-2
+AP-2_3_merged	TFAP2A|TFAP2B|TFAP2C	AP-2
+bHLH-ZIP_factors_5_merged	USF1|USF2	bHLH-ZIP_factors
+More_than_3_adjacent_zinc_finger_factors_4_merged	ZBTB7A|ZBTB7B|ZBTB7C	More_than_3_adjacent_zinc_finger_factors
+More_than_3_adjacent_zinc_finger_factors_5_merged	ZIC1|ZIC3|ZIC4	More_than_3_adjacent_zinc_finger_factors
+AHR_var2	AHR	bHLH
+AIRE	AIRE	SAND
+ARID5B	ARID5B	ARID/BRIGHT
+ARID5B_var2	ARID5B	ARID/BRIGHT
+ARNT2	ARNT2	bHLH
+ARNT::HIF1A	HIF1A	PAS_domain_factors
+ATF2_var2	ATF2	bZIP
+ATF4	ATF4	ATF-4-related_factors
+ATF5	ATF5	bZIP
+Ahr::Arnt	Arnt	PAS_domain_factors
+Arid3a	Arid3a	ARID-related_factors
+Arid3b	Arid3b	ARID-related_factors
+Arid5a	Arid5a	ARID-related_factors
+Atf3	Atf3	Fos-related_factors
+BACH1_var4	BACH1	bZIP
+BARHL2	BARHL2	NK-related_factors
+BARX2	BARX2	Homeodomain
+BATF	BATF	bZIP
+BATF::JUN	JUN	Jun-related_factors
+BBX	BBX	Sox
+BCL11A	BCL11A	C2H2 ZF
+BCL6B	BCL6B	More_than_3_adjacent_zinc_finger_factors
+Bcl6	Bcl6	More_than_3_adjacent_zinc_finger_factors
+CDC5L	CDC5L	Myb/SANT
+CDC5L_var2	CDC5L	Myb/SANT
+CDX4	CDX4	Homeodomain
+CEBPA	CEBPA	C/EBP-related
+CENPB	CENPB	unknown
+CTCF	CTCF	More_than_3_adjacent_zinc_finger_factors
+CTCFL	CTCFL	C2H2 ZF
+CXXC1	CXXC1	CxxC
+Crx	Crx	Paired-related_HD_factors
+DDIT3	DDIT3	bZIP
+DMRT2	DMRT2	DM
+DPRX_var2	DPRX	Homeodomain
+Ddit3::Cebpa	Cebpa	C/EBP-related
+Dmbx1	Dmbx1	Paired-related_HD_factors
+Dux	Dux	Paired-related_HD_factors
+E2F1	E2F1	E2F-related_factors
+E2F5	E2F5	E2F
+E4F1	E4F1	C2H2 ZF
+EBF1	EBF1	Early_B-Cell_Factor-related_factors
+EGR2	EGR2	Three-zinc_finger_Kruppel-related_factors
+ELF2	ELF2	Ets
+EPAS1	EPAS1	bHLH
+ETS2	ETS2	Ets
+ETV6	ETV6	Ets-related_factors
+ETV7	ETV7	Ets
+EWSR1-FLI1	EWSR1/FLI1	Ets-related_factors
+FOSB	FOSB	bZIP
+FOXF1_var2	FOXF1	Forkhead
+FOXH1	FOXH1	Forkhead_box_(FOX)_factors
+FOXI2	FOXI2	Forkhead
+FOXM1	FOXM1	Forkhead
+GATA1::TAL1	TAL1	Tal-related_factors
+GATA6_var2	GATA6	GATA
+GLI2	GLI2	More_than_3_adjacent_zinc_finger_factors
+Gfi1	Gfi1	More_than_3_adjacent_zinc_finger_factors
+Gfi1b	Gfi1b	More_than_3_adjacent_zinc_finger_factors
+Gmeb1	Gmeb1	GMEB
+HBP1	HBP1	Sox
+HDX	HDX	Homeodomain
+HHEX	HHEX	Homeodomain
+HINFP	HINFP	Factors_with_multiple_dispersed_zinc_fingers
+HIVEP1	HIVEP1	C2H2 ZF
+HIVEP2	HIVEP2	C2H2 ZF
+HLTF	HLTF	Myb/SANT_domain_factors
+HLX	HLX	Homeodomain
+HMBOX1	HMBOX1	POU_domain_factors
+HMGA1	HMGA1	AT hook
+HNF4G	HNF4G	RXR-related_receptors_(NR2)
+HOMEZ	HOMEZ	Homeodomain
+HOXA3	HOXA3	Homeodomain
+HOXA5	HOXA5	HOX-related_factors
+HOXA7	HOXA7	Homeodomain
+HOXB9	HOXB9	Homeodomain
+HOXC13	HOXC13	HOX-related_factors
+HOXC6	HOXC6	Homeodomain
+HOXC8	HOXC8	Homeodomain
+HOXD10	HOXD10	Homeodomain
+HOXD4	HOXD4	Homeodomain
+HSFY2_var2	HSFY2	HSF
+Hand1::Tcf3	Tcf3	E2A-related_factors
+Hnf4a	Hnf4a	RXR-related_receptors_(NR2)
+Hoxd8	Hoxd8	HOX-related_factors
+Hoxd9	Hoxd9	HOX-related_factors
+IKZF1_var2	IKZF1	C2H2 ZF
+INSM1	INSM1	Factors_with_multiple_dispersed_zinc_fingers
+IRF1	IRF1	Interferon-regulatory_factors
+IRF3	IRF3	IRF
+IRF4	IRF4	IRF
+IRF4_var3	IRF4	IRF
+IRF5_var2	IRF5	IRF
+IRF5_var3	IRF5	IRF
+IRF6	IRF6	IRF
+IRF7	IRF7	Interferon-regulatory_factors
+ISL1	ISL1	Homeodomain
+KLF13	KLF13	Three-zinc_finger_Kruppel-related_factors
+KLF15	KLF15	C2H2 ZF
+KLF3	KLF3	C2H2 ZF
+KLF6	KLF6	C2H2 ZF
+KLF8	KLF8	C2H2 ZF
+KLF9	KLF9	C2H2 ZF
+Klf12	Klf12	Three-zinc_finger_Kruppel-related_factors
+LBX1	LBX1	NK-related_factors
+LCOR	LCOR	Pipsqueak
+LIN54	LIN54	unknown
+Lhx3	Lhx3	Homeo
+MAFA	MAFA	bZIP
+MAFG	MAFG	Maf-related_factors
+MAFG::NFE2L1	NFE2L1	Jun-related_factors
+MAZ	MAZ	C2H2 ZF
+MEIS1	MEIS1	TALE-type_homeo_domain_factors
+MTF1	MTF1	More_than_3_adjacent_zinc_finger_factors
+MXI1_var3	MXI1	bHLH
+MYBL1	MYBL1	Myb/SANT_domain_factors
+MYBL2	MYBL2	Myb/SANT_domain_factors
+MYF6	MYF6	MyoD_/_ASC-related_factors
+MYPOP	MYPOP	Myb/SANT
+MZF1	MZF1	More_than_3_adjacent_zinc_finger_factors
+MZF1(var.2)	MZF1	More_than_3_adjacent_zinc_finger_factors
+Myb	Myb	Myb/SANT_domain_factors
+NANOG	NANOG	Homeodomain
+NEUROD1	NEUROD1	bHLH
+NFIA	NFIA	Nuclear_factor_1
+NFYA	NFYA	Heteromeric_CCAAT-binding_factors
+NFYB	NFYB	Heteromeric_CCAAT-binding_factors
+NKX2-1	NKX2-1	Homeodomain
+NPAS4	NPAS4	bHLH
+NR0B1	NR0B1	Unknown
+NR1H4	NR1H4	Nuclear receptor
+NR2C1	NR2C1	Nuclear receptor
+NR2F2	NR2F2	Nuclear receptor
+NR2F2_var3	NR2F2	Nuclear receptor
+NRF1	NRF1	Jun-related_factors
+Nkx2-5	Nkx2-5	Homeo
+Nkx2-5(var.2)	Nkx2-5	NK-related_factors
+Nr1h3::Rxra	Rxra	RXR-related_receptors_(NR2)
+Nr2e1	NR2E1	RXR-related_receptors_(NR2)
+Nr2e3	Nr2e3	RXR-related_receptors_(NR2)
+Nr5a2	Nr5a2	FTZ-F1-related_receptors_(NR5)
+OVOL1	OVOL1	C2H2 ZF
+PATZ1	PATZ1	C2H2 ZF
+PAX5	PAX5	Paired_domain_only
+PAX8	PAX8	Paired box
+PBX2	PBX2	Homeodomain
+PGR	PGR	Nuclear receptor
+PGR_var2	PGR	Nuclear receptor
+PITX2	PITX2	Homeodomain
+PLAG1	PLAG1	More_than_3_adjacent_zinc_finger_factors
+PLAGL1	PLAGL1	C2H2 ZF
+POU6F2	POU6F2	POU_domain_factors
+PPARA	PPARA	Nuclear receptor
+PPARG	PPARG	Thyroid_hormone_receptor-related_factors_(NR1)
+PRDM4	PRDM4	C2H2 ZF
+PROX1	PROX1	HD-PROS_factors
+PTF1A	PTF1A	bHLH
+Pax2	Pax2	Paired_domain_only
+Pax6	Pax6	Homeo
+RBPJ	RBPJ	CSL
+RELB	RELB	Rel
+REST	REST	Factors_with_multiple_dispersed_zinc_fingers
+RHOXF1	RHOXF1	Paired-related_HD_factors
+RORA	RORA	Thyroid_hormone_receptor-related_factors_(NR1)
+RREB1	RREB1	Factors_with_multiple_dispersed_zinc_fingers
+RXRA::VDR	VDR	Thyroid_hormone_receptor-related_factors_(NR1)
+Rarg(var.2)	Rarg	Thyroid_hormone_receptor-related_factors_(NR1)
+Rhox11	Rhox11	Paired-related_HD_factors
+SIX5	SIX5	Homeodomain
+SIX5_var2	SIX5	Homeodomain
+SMAD1	SMAD1	SMAD
+SMAD2	SMAD2	SMAD
+SMAD2::SMAD3::SMAD4	SMAD4	SMAD_factors
+SMAD3	SMAD3	SMAD_factors
+SOX10	SOX10	SOX-related_factors
+SOX12	SOX12	Sox
+SOX14	SOX14	Sox
+SOX15_var4	SOX15	Sox
+SOX18_var4	SOX18	Sox
+SP1	SP1	Three-zinc_finger_Kruppel-related_factors
+SP2	SP2	Three-zinc_finger_Kruppel-related_factors
+SPDEF	SPDEF	Ets-related_factors
+SPIB	SPIB	Ets-related_factors
+SRF	SRF	Responders_to_external_signals_(SRF/RLM1)
+STAT1::STAT2	STAT2	STAT_factors
+STAT5A_var3	STAT5A	STAT
+Six3	Six3	HD-SINE_factors
+Sox17	Sox17	SOX-related_factors
+Sox2	Sox2	SOX-related_factors
+Spz1	Spz1	unknown
+Stat6	Stat6	STAT_factors
+TAL1::TCF3	TCF3	E2A-related_factors
+TBP	TBP	TBP-related_factors
+TBX3	TBX3	T-box
+TCF15	TCF15	bHLH
+TERF2	TERF2	Myb/SANT
+TFAP2D	TFAP2D	AP-2
+TFAP4	TFAP4	bHLH-ZIP_factors
+THAP1	THAP1	THAP-related_factors
+THRA_var3	THRA	Nuclear receptor
+THRB_var3	THRB	Nuclear receptor
+THRB_var4	THRB	Nuclear receptor
+TLX2	TLX2	Homeodomain
+TLX2_var2	TLX2	Homeodomain
+TLX3	TLX3	Homeodomain
+TP53	TP53	p53-related_factors
+TP63	TP63	p53-related_factors
+TP73	TP73	p53-related_factors
+TWIST1	TWIST1	bHLH
+UBP1	UBP1	Grainyhead
+VENTX	VENTX	NK-related_factors
+Vdr	Vdr	Thyroid_hormone_receptor-related_factors_(NR1)
+YBX1	YBX1	CSD
+YY1	YY1	More_than_3_adjacent_zinc_finger_factors
+YY2	YY2	More_than_3_adjacent_zinc_finger_factors
+ZBED1	ZBED1	BED_zinc_finger_factors
+ZBTB1	ZBTB1	C2H2 ZF
+ZBTB12	ZBTB12	C2H2 ZF
+ZBTB3	ZBTB3	C2H2 ZF
+ZBTB33	ZBTB33	Other_factors_with_up_to_three_adjacent_zinc_fingers
+ZBTB4	ZBTB4	C2H2 ZF
+ZBTB49	ZBTB49	C2H2 ZF
+ZBTB4_var2	ZBTB4	C2H2 ZF
+ZEB1	ZEB1	HD-ZF_factors
+ZFHX3_var2	ZFHX3	Homeodomain
+ZHX1	ZHX1	Homeodomain
+ZIC5	ZIC5	C2H2 ZF
+ZKSCAN1	ZKSCAN1	C2H2 ZF
+ZNF143	ZNF143	More_than_3_adjacent_zinc_finger_factors
+ZNF148	ZNF148	C2H2 ZF
+ZNF202	ZNF202	C2H2 ZF
+ZNF219	ZNF219	C2H2 ZF
+ZNF232	ZNF232	C2H2 ZF
+ZNF263	ZNF263	More_than_3_adjacent_zinc_finger_factors
+ZNF274_var2	ZNF274	C2H2 ZF
+ZNF274_var3	ZNF274	C2H2 ZF
+ZNF281	ZNF281	C2H2 ZF
+ZNF282	ZNF282	C2H2 ZF
+ZNF32	ZNF32	C2H2 ZF
+ZNF333	ZNF333	C2H2 ZF
+ZNF35	ZNF35	C2H2 ZF
+ZNF350	ZNF350	Unknown
+ZNF354C	ZNF354C	More_than_3_adjacent_zinc_finger_factors
+ZNF384	ZNF384	C2H2 ZF
+ZNF410	ZNF410	More_than_3_adjacent_zinc_finger_factors
+ZNF524	ZNF524	C2H2 ZF
+ZNF524_var2	ZNF524	C2H2 ZF
+ZNF589	ZNF589	C2H2 ZF
+ZNF691	ZNF691	C2H2 ZF
+ZNF713	ZNF713	C2H2 ZF
+ZNF740	ZNF740	Other_factors_with_up_to_three_adjacent_zinc_fingers
+ZNF76	ZNF76	C2H2 ZF
+ZNF784	ZNF784	C2H2 ZF
+ZSCAN10	ZSCAN10	C2H2 ZF
+ZSCAN16	ZSCAN16	C2H2 ZF
+ZSCAN4	ZSCAN4	C2H2 ZF
+Znf423	Znf423	Factors_with_multiple_dispersed_zinc_fingers
