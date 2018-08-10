@@ -1,5 +1,5 @@
->Msx3|RAX|BARX2|GBX2 NK-related_factors_1_merged
-A [  0.28   0.71   0.74   0.26   0.15   0.76   0.35   0.32]
-C [  0.42   0.01   0.03   0.00   0.02   0.07   0.16   0.26]
-G [  0.00   0.02   0.00   0.00   0.05   0.04   0.38   0.22]
-T [  0.30   0.26   0.23   0.74   0.78   0.13   0.11   0.21]
+>NK-related_factors_5_merged|Paired-related_HD_factors_7_merged|Homeodomain_13_merged|NK-related_factors_1_merged NK-related_factors_1_merged
+A [  0.17   0.71   0.84   0.13   0.10   0.82   0.34   0.28]
+C [  0.34   0.11   0.03   0.01   0.04   0.04   0.18   0.27]
+G [  0.01   0.04   0.01   0.00   0.06   0.05   0.36   0.22]
+T [  0.48   0.15   0.12   0.86   0.81   0.08   0.13   0.22]
