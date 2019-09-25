@@ -25,7 +25,7 @@ PATH=$PATH:/path/to/tba/model_training; export PATH
 
 TBA depends on several publicly available software packages as well as data resources. Please install the following software packages:
 * Required:
-  * Python 3.5.1 (Most versions of Python 3 should work)
+  * Python 3.5
     * [https://www.python.org/downloads/](https://www.python.org/downloads/)
   * sklearn 0.19.0
     * [http://scikit-learn.org/stable/index.html](http://scikit-learn.org/stable/index.html)
