@@ -72,7 +72,7 @@ echo "$script_directory/extract_sequences.py $bed_file $genome $seq_file">> $out
 echo "$script_directory/generate_background_coordinates.py $bed_file $genome $output_dir/">> $output_dir/run.sh
 
 # calculate motif scores
-echo "$script_directory/create_features.py -num_procs $num_procs $seq_file $output_dir/background.fasta $output_dir $motif_directory/*">> $output_dir/run.sh
+echo "$script_directory/create_features.py -num_procs $num_procs $seq_file $output_dir/background.fasta $output_dir $motif_directory/*motif">> $output_dir/run.sh
 
 # train model
 combined_features=$output_dir/combined_features.tsv
