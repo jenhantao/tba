@@ -100,7 +100,7 @@ def train_perturbed_classifier(features,
     current_probas = current_classifier.predict_proba(current_features)
     current_log_likelihood = calc_model_log_likelihood(current_probas, labels)
     stat = -2*(current_log_likelihood - overall_log_likelihood)
-    p = scipy.stats.chisqprob(stat, df=1)
+    p = scipy.stats.distributions.chi2.sf(stat, df=1)
     print('tested', motif_to_drop, time.time() - start)
     return p
 
